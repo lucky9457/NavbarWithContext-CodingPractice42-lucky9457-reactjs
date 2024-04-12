@@ -1,0 +1,53 @@
+/* Write your CSS here */
+ul {
+  margin: 0px;
+}
+.navbarCont {
+  height: 10vh;
+  background-color: #333333;
+  align-items: center;
+  display: flex;
+  padding-left: 50px;
+  padding-right: 50px;
+  justify-content: space-between;
+}
+.navbarContWhite {
+  background-color: white;
+  color: black;
+  border-bottom: 1px solid grey;
+}
+li {
+  list-style: none;
+}
+
+.website {
+  height: 40px;
+}
+.home {
+  font-family: Roboto;
+  font-size: 20px;
+  color: white;
+  margin-right: 25px;
+}
+.homeDark {
+  color: black;
+}
+.homeAboutCont {
+  display: flex;
+}
+.about {
+  font-family: Roboto;
+  font-size: 20px;
+  color: white;
+}
+.buttonnav {
+  background: none;
+  border: none;
+}
+.lightButton {
+  height: 40px;
+}
+.Link {
+  list-style: none;
+  text-decoration: none;
+}

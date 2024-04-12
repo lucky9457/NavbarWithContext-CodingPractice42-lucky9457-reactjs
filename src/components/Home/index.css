@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.mainHomeContainer {
+  background-color: black;
+  height: 100vh;
+}
+.containerColoupdate {
+  background-color: white;
+}
+.bottomContainer {
+  height: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.homeIcon {
+  height: 30%;
+}
